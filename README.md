@@ -1,6 +1,6 @@
-# Hello World in 364 bytes
+# Hello World in 352 bytes
 <p align="center">
-<img src="https://user-images.githubusercontent.com/24278929/96308377-9115bf80-1003-11eb-9fd5-4640d5a12610.PNG" />
+<img src="https://user-images.githubusercontent.com/24278929/100585825-7b780300-32ee-11eb-8589-6aed2842b416.PNG" />
 </p>
 
 
@@ -9,7 +9,7 @@ Creates an incredibly small Hello World application by linking directly to the w
 
 ## Building
 - Edit the call option in `build.bat` to point to your `Developer Command Prompt for VS 2019`
-- Run `build.bat` to compile and compress the executable all the way down to **364 bytes!**
+- Run `build.bat` to compile and compress the executable all the way down to **352 bytes!**
 
 ## Disclaimer
 This project uses [Crinkler](https://github.com/runestubbe/Crinkler) which is licensed under the [zlib License](Crinkler/LICENSE.txt)
